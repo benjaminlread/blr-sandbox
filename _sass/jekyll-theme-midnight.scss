@@ -205,6 +205,11 @@ dt {
         }
       }
 
+      &.navleftmost {
+        float: left;
+        margin-left: 0px;
+      }
+
       &.navleft {
         float: left;
         margin-left: 10px;
