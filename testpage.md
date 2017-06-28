@@ -1,6 +1,6 @@
 ---
 layout: page
-title: This Is a Test Page
+title: Sample of an Ordinary Page
 ---
 
 This is a test page
