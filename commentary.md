@@ -27,5 +27,5 @@ subtitle: Ben Read / commentary
 ## Other Projects
 
 I've provided assistance (and even some voice-over) on the historical documentaries of filmmaker Hu Jingcao:
-+ "Liang and Lin" (<span style="font-size: 10pt">梁思成 林徽因</span>, 2010) [official site](http://jishi.cntv.cn/program/lianglin/lianglinft/index.shtml) | [links to episodes](http://bbs.wenxuecity.com/tv/467324.html) in HD on YouTube
-+ "Boy Students" (<span style="font-size: 10pt">幼童</span>, 2004) [official site](http://www.cctv.com/geography/special/C12107/01/index.shtml) | [online video](http://www.tudou.com/programs/view/p0lZmiJnx3Q/) via Tudou
++ "Liang and Lin" (梁思成 林徽因, 2010) [official site](http://jishi.cntv.cn/program/lianglin/lianglinft/index.shtml) | [links to episodes](http://bbs.wenxuecity.com/tv/467324.html) in HD on YouTube
++ "Boy Students" (幼童, 2004) [official site](http://www.cctv.com/geography/special/C12107/01/index.shtml) | [online video](http://www.tudou.com/programs/view/p0lZmiJnx3Q/) via Tudou
