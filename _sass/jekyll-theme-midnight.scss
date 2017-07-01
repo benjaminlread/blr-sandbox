@@ -256,24 +256,16 @@ section {
       font-size: 18px;
       text-align: center;
     }
+  }
 
-    .credits {
+  #credits {
       font-size: 11px;
       font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       color: #696969;
       margin-top: -10px;
-
-      &.left {
-        float: left;
-      }
-
-      &.right {
-        float: right;
-      }
+      float: right;
     }
-
-  }
 
     #title_for_page {
     border: 0;
