@@ -21,4 +21,4 @@ I've also co-edited a book in which contributors compare varieties of such state
 
 ### Articles and book chapters from this project:
 
-+ "Theoretical Approaches to Neighborhood Governance: Searching for Lost Treasure and Comparative Frameworks," in Ngai-Ming Yip, ed., <U>Neighborhood Governance in Urban China</U> (Cheltenham, UK: Edward Elgar, 2014), pp. 25–39 [[pdf](ReadBenjaminL_2014_TheoreticalApproachesToNeighbourhoodGovernance.pdf)]
++ "Theoretical Approaches to Neighborhood Governance: Searching for Lost Treasure and Comparative Frameworks," in Ngai-Ming Yip, ed., <U>Neighborhood Governance in Urban China</U> (Cheltenham, UK: Edward Elgar, 2014), pp. 25–39 [[pdf](http://benread.net/publications/ReadBenjaminL_2014_TheoreticalApproachesToNeighbourhoodGovernance.pdf)]
