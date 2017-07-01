@@ -4,7 +4,7 @@ title: About me
 subtitle: Ben Read / about
 ---
 <div style="text-align:center" markdown="1">
-![photo of ben read](photos/BLR_Taipei_2006-03-21.jpg)
+![photo of ben read](BLR_Taipei_2006-03-21.jpg)
 </div>
 
 ## Professional information
