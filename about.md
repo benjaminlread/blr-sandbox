@@ -4,7 +4,7 @@ title: About me
 subtitle: Ben Read / about
 ---
 
-<center><img src="BLR_Taipei_2006-03-21.jpg" border=1></center>
+![photo of ben read](BLR_Taipei_2006-03-21.jpg)
 
 ## Professional information
 
@@ -16,13 +16,13 @@ More about [UC Santa Cruz](http://www.ucsc.edu/), a [one-page overview of UCSC](
 
 ## Contact information
 
-Politics Department
-Merrill Faculty Services
-1156 High Street
-University of California, Santa Cruz
+Politics Department  
+Merrill Faculty Services  
+1156 High Street  
+University of California, Santa Cruz  
 Santa Cruz, CA 95064
 
-office: 831-459-4469
+office: 831-459-4469  
 email: bread (at) ucsc (dot) edu
 
 ## Office hours
