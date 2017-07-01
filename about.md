@@ -4,16 +4,15 @@ title: About me
 subtitle: Ben Read / about
 ---
 
-<p style="text-align:center;"><img src="photos/BLR_Taipei_2006-03-21.jpg" border=1></p>
+<center><img src="BLR_Taipei_2006-03-21.jpg" border=1></center>
 
 ## Professional information
 
-Here is my [curriculum vitae](BenRead-CurriculumVitae.pdf), my [UCSC profile]
-(http://politics.ucsc.edu/faculty/singleton.php?&singleton=true&cruz_id=bread), and my [Google Scholar](http://scholar.google.com/citations?user=4f7G7WAAAAAJ) profile.
+Here is my [curriculum vitae](BenRead-CurriculumVitae.pdf), my [UCSC profile](http://politics.ucsc.edu/faculty/singleton.php?&singleton=true&cruz_id=bread), and my [Google Scholar](http://scholar.google.com/citations?user=4f7G7WAAAAAJ) profile.
 
 ## About my institution
 
-More about [UC Santa Cruz](http://www.ucsc.edu/), a [one-page overview of UCSC](UCSC_on_One_Page.htm)the [Politics Department](http://politics.ucsc.edu), [East Asian Studies](http://eastasianstudies.ucsc.edu/index.html).
+More about [UC Santa Cruz](http://www.ucsc.edu/), a [one-page overview of UCSC](UCSC_on_One_Page.htm), the [Politics Department](http://politics.ucsc.edu), and the [East Asian Studies](http://eastasianstudies.ucsc.edu/index.html) program.
 
 ## Contact information
 
