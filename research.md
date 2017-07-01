@@ -39,3 +39,16 @@ A second project concerns groups that are largely autonomous from state funding 
 + "Property Rights and Homeowner Activism in New Neighborhoods," in Li Zhang and Aihwa Ong, eds., <U>Privatizing China: Socialism from Afar</U> (Ithaca, N.Y.: Cornell University Press, 2008), pp. 41-56 [[pdf](../publications/ReadBenjaminL_2008_PropertyRightsHomeownerActivism.pdf)]
 + "Inadvertent Political Reform via Private Associations: Assessing Homeowners' Groups in New Neighborhoods," in Elizabeth J. Perry and Merle Goldman, eds., <U>Grassroots Political Reform in Contemporary China</U> (Cambridge, Mass.: Harvard University Press, 2007), pp. 149-173 [[pdf](../publications/ReadBenjaminL_2007_InadvertentPoliticalReform.pdf)]
 + "Democratizing the Neighborhood? New Private Housing and Homeowner Self-Organization in Urban China," <U>The China Journal</U>, Issue 49 (January 2003), pp. 31-59 [[pdf](../publications/ReadBenjaminL_2003_ChinaJ_DemocratizingTheNeighbourhood.pdf), reprinted in Jonathan Unger, ed. <U>Associations and the Chinese State: Contested Spaces</U> (Armonk, NY: M.E. Sharpe, 2008), pp. 216-252
+
+## III. Qualitative and Mixed Methods
+
+Ever since my dissertation fieldwork I have felt that studying topics like mine (and many others in the political world) all but requires the use of ethnographic techniques such as participant observation. Other approaches, like standard interviews and questionnaire surveys, are also valuable for what I do. But to the extent that politics has <U>hidden</U> and <U>subtle</U> aspects, as it usually does, there is an important place for methods based on observing people as they go about their ordinary work or activities in an up-close and prolonged way.
+
+With Diana Kapiszewski and Lauren Mathews Morris MacLean, I've written a book that covers these matters and many other topics related to on-the-ground research:
++ <U>Field Research in Political Science: Practices and Principles</U>, Cambridge University Press 2015 [[abstract](FRPS.html)] [[publisher's page](http://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/field-research-political-science-practices-and-principles) [[project site](http://www.psfieldresearch.org/)] [[Amazon page](http://www.amazon.com/Field-Research-Political-Science-Principles/dp/0521184835/)]
+
+### Articles and book chapters from this project:
+
++ "More than an Interview, Less than Sedaka: Studying Subtle and Hidden Politics with Site-Intensive Methods," in Allen Carlson, Mary E. Gallagher, Kenneth Lieberthal and Melanie Manion, eds., <U>Contemporary Chinese Politics: New Sources, Methods, and Field Strategies</U> (Cambridge: Cambridge University Press, 2010), pp. 145-161 [[pdf](../publications/ReadBenjaminL_2010_MoreThanAnInterview.pdf)]
++ "Introduction," and "Site-Intensive Methods: Fenno and Scott in Search of a Coalition" in a symposium titled "Field Research: How Rich? How Thick? How Participatory?" <U>Qualitative Methods</U> [newsletter of the American Political Science Association Organized Section on Qualitative Methods] Vol. 4, No. 2 (Fall 2006), pp. 9-13
++ "Fieldwork: Learning How to Get the Information You Need," <U>Contemporary China Newsletter</U> [Dangdai Zhongguo Yanjiu, Center for Contemporary China, National Tsing Hua University, Taiwan] No. 7 (October 31, 2006), pp. 22-26
