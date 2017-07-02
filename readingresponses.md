@@ -2,13 +2,13 @@
 layout: page
 title: Reading-Response Papers
 ---
-## Instructions for reading-response papers (<u>undergraduates</u>)
+## Instructions for undergraduates
 
 Reading responses should be one to two paragraphs in length &mdash; a little longer if you get inspired. They must be double spaced, and printed in 11 or 12 point font. No cover page is necessary, but be sure not to leave out your name and the date. I expect your reading response to be carefully proofread and free from typographical and grammatical errors. Turn in a hard copy of your response in class.
 
 Your reading response should constitute an answer to one of the discussion questions assigned for that day. What you write should contain very little recapping or summarizing of the readings; just enough to make the argument that you want to make.
 
-## Instructions for reading-response papers (<u>graduate students</u>)
+## Instructions for graduate students
 
 Reading responses should be at least three pages and one thousand words each, double spaced, 11 or 12 point font. Do not add a cover page, but do be sure to put your name and the date at the top of the first page. I recommend that you use the MLA in-text citation style for references to the readings you are discussing; see [this page](http://politics.ucsc.edu/undergraduate/citation.php) for details. Be sure to give specific page numbers where appropriate. When citing assigned readings, you need not provide a bibliography at the end of your paper; only include a bibliography for things you cite that are not on the syllabus (if any). Please proofread carefully &mdash; I expect your work to be careful and well-polished &mdash; and consult this [checklist](http://benread.net/forstudents/ChecklistForWrittenWork.htm) before submitting your reading response.
 
