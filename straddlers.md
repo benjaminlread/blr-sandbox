@@ -12,7 +12,7 @@ Publisher's [page](https://www.routledge.com/products/9780415666084)
 
 ## Table of Contents
 
-+ Ch. 1: State-Linked Associational Life: Illuminating Blind Spots of Existing Paradigms [[abstract](#read)] [[pdf](../publications/ReadBenjaminL_2009_ch1_StateLinkedAssociationalLife.pdf]  
++ Ch. 1: State-Linked Associational Life: Illuminating Blind Spots of Existing Paradigms [[abstract](#1read)] [[pdf](../publications/ReadBenjaminL_2009_ch1_StateLinkedAssociationalLife.pdf]  
 Benjamin L. <u>Read</u>
 + Ch. 2: Japan's Neighborhood Associations: Membership without Advocacy [[abstract]((#2pekkanen)]  
 Robert <u>Pekkanen</u>
@@ -32,7 +32,7 @@ Lan T. <u>Chu</u>
 ## Abstracts
 
 ### State-Linked Associational Life: Illuminating Blind Spots of Existing Paradigms
-(#read)Chapter 1
+<a name="1read"></a>Chapter 1
 <P class="indentsmall">Benjamin L. <u>Read</u>
 <P class="indentsmall">Politics Department
 <P class="indentsmall">University of California, Santa Cruz (United States)
