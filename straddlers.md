@@ -31,7 +31,7 @@ Lan T. <u>Chu</u>
 
 ## Abstracts
 
-<a name="1read"></a>### State-Linked Associational Life: Illuminating Blind Spots of Existing Paradigms
+### <a name="1read"></a>State-Linked Associational Life: Illuminating Blind Spots of Existing Paradigms
 Chapter 1  
 Benjamin L. <u>Read</u>  
 Politics Department  
