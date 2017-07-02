@@ -12,29 +12,29 @@ Publisher's [page](https://www.routledge.com/products/9780415666084)
 
 ## Table of Contents
 
-+ Ch. 1: State-Linked Associational Life: Illuminating Blind Spots of Existing Paradigms [[abstract](#1read)] [[pdf](../publications/ReadBenjaminL_2009_ch1_StateLinkedAssociationalLife.pdf]  
++ Ch. 1: State-Linked Associational Life: Illuminating Blind Spots of Existing Paradigms [[abstract](#1read)] [[pdf](../publications/ReadBenjaminL_2009_ch1_StateLinkedAssociationalLife.pdf)]  
 Benjamin L. <u>Read</u>
-+ Ch. 2: Japan's Neighborhood Associations: Membership without Advocacy [[abstract]((#2pekkanen)]  
-Robert <u>Pekkanen</u>
-+ Ch. 3: Swaying Between State and Community: The Role of RT/RW in Post-Suharto Indonesia [<a href="#3Kurasawa">abstract</a>]
++ Ch. 2: Japan's Neighborhood Associations: Membership without Advocacy [[abstract](#2pekkanen)]  
+Robert <u>Pekkanen</u>]
++ Ch. 3: Swaying Between State and Community: The Role of RT/RW in Post-Suharto Indonesia [[abstract](#3Kurasawa)]
 Aiko <u>Kurasawa</u>
-+ Ch. 4: The Mutual Colonization of State and Civil Society Organizations in Vietnam [<a href="#4Hannah">abstract</a>]
++ Ch. 4: The Mutual Colonization of State and Civil Society Organizations in Vietnam [[abstract](#4Hannah)]
 Joseph <u>Hannah</u>
-+ Ch. 5: Municipal Governments and the Role of Cooperative Community Groups in Thailand [<a href="#5Mahakanjana">abstract</a>]
++ Ch. 5: Municipal Governments and the Role of Cooperative Community Groups in Thailand [[abstract](#5Mahakanjana)]
 Chandra <u>Mahakanjana</u>
-+ Ch. 6: The Multiple Uses of Local Networks: State Cultivation of Neighborhood Social Capital in China and Taiwan [<a href="#6Read">abstract</a>] [<A target="_top" href="http://benread.net/publications/ReadBenjaminL_2009_ch6_MultipleUsesOfLocalNetworks.pdf">pdf</A>]
++ Ch. 6: The Multiple Uses of Local Networks: State Cultivation of Neighborhood Social Capital in China and Taiwan [[abstract](#6Read)] [[pdf(../publications/ReadBenjaminL_2009_ch6_MultipleUsesOfLocalNetworks.pdf)]
 Benjamin L. <u>Read</u>
-+ Ch. 7: The Sign of the Cross: Vertical and Horizontal Tensions in Vietnamese Church-State Relations [<a href="#7Chu">abstract</a>]
++ Ch. 7: The Sign of the Cross: Vertical and Horizontal Tensions in Vietnamese Church-State Relations [[abstract](#7Chu)]
 Lan T. <u>Chu</u>
-+ Ch. 8: State Shaping of Community-Level Politics: Residents' Committees in Singapore [<a href="#8Ooi">abstract</a>]
++ Ch. 8: State Shaping of Community-Level Politics: Residents' Committees in Singapore [[abstract](#8Ooi)]
 <u>Ooi</u> Giok Ling
 
 ## Abstracts
 
 ### State-Linked Associational Life: Illuminating Blind Spots of Existing Paradigms
-<a name="1read"></a>Chapter 1
-<P class="indentsmall">Benjamin L. <u>Read</u>
-<P class="indentsmall">Politics Department
+<a name="1read"></a>Chapter 1  
+<P class="indentsmall">Benjamin L. <u>Read</u>  
+<P class="indentsmall">Politics Department  
 <P class="indentsmall">University of California, Santa Cruz (United States)
 <P class="bodytext">Citizen associations that maintain close links with governments are usually lumped into a single conceptual category, that of Leninist or fascist "mass organizations," crude tools of manipulation and political control. Meanwhile, civil society organizations, seen as wholly independent from the state, are often taken as the sole appropriate model for today's world. Yet close inspection of empirical cases from East and Southeast Asia shows a diversity of ways in which states interact with grassroots-level associations. In some cases, such as China, these institutions unquestionably help regimes monitor the population and thus maintain political dominance. Yet even there, and also in democratic settings, government-sponsored organizations typically cultivate close ties with certain types of constituents and enjoy considerable support. Their role in governance and in representation must be understood, together with the problems they pose. This essay surveys theoretical approaches to these issues and puts forward a way of conceptualizing "straddler" groups.
 <BR>
