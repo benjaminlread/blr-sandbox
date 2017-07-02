@@ -2,11 +2,11 @@
 layout: page
 title: Field Research in Political Science
 ---
-<u>Field Research in Political Science: Practices and Principles</u>
-By Diana <u>Kapiszewski</u> (Georgetown University), Lauren M. <u>MacLean</u> (Indiana University), and Benjamin L. <u>Read</u> (University of California, Santa Cruz)
+<u>Field Research in Political Science: Practices and Principles</u>  
+By Diana <u>Kapiszewski</u> (Georgetown University), Lauren M. <u>MacLean</u> (Indiana University), and Benjamin L. <u>Read</u> (University of California, Santa Cruz)  
 Cambridge University Press 2015
 
-More on this book from the [publisher](http://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/field-research-political-science-practices-and-principles), the [project site]((http://www.psfieldresearch.org/), and [Amazon](http://www.amazon.com/Field-Research-Political-Science-Principles/dp/0521184835/)
+More on this book from the [publisher](http://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/field-research-political-science-practices-and-principles), the [project site](http://www.psfieldresearch.org/), and [Amazon](http://www.amazon.com/Field-Research-Political-Science-Principles/dp/0521184835/)
 
 ## Book summary
 
