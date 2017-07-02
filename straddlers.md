@@ -16,17 +16,17 @@ Publisher's [page](https://www.routledge.com/products/9780415666084)
 Benjamin L. <u>Read</u>
 + Ch. 2: Japan's Neighborhood Associations: Membership without Advocacy [[abstract](#2pekkanen)]  
 Robert <u>Pekkanen</u>]
-+ Ch. 3: Swaying Between State and Community: The Role of RT/RW in Post-Suharto Indonesia [[abstract](#3Kurasawa)]
++ Ch. 3: Swaying Between State and Community: The Role of RT/RW in Post-Suharto Indonesia [[abstract](#3Kurasawa)]  
 Aiko <u>Kurasawa</u>
-+ Ch. 4: The Mutual Colonization of State and Civil Society Organizations in Vietnam [[abstract](#4Hannah)]
++ Ch. 4: The Mutual Colonization of State and Civil Society Organizations in Vietnam [[abstract](#4Hannah)]  
 Joseph <u>Hannah</u>
-+ Ch. 5: Municipal Governments and the Role of Cooperative Community Groups in Thailand [[abstract](#5Mahakanjana)]
++ Ch. 5: Municipal Governments and the Role of Cooperative Community Groups in Thailand [[abstract](#5Mahakanjana)]  
 Chandra <u>Mahakanjana</u>
-+ Ch. 6: The Multiple Uses of Local Networks: State Cultivation of Neighborhood Social Capital in China and Taiwan [[abstract](#6Read)] [[pdf(../publications/ReadBenjaminL_2009_ch6_MultipleUsesOfLocalNetworks.pdf)]
++ Ch. 6: The Multiple Uses of Local Networks: State Cultivation of Neighborhood Social Capital in China and Taiwan [[abstract](#6Read)] [[pdf(../publications/ReadBenjaminL_2009_ch6_MultipleUsesOfLocalNetworks.pdf)]  
 Benjamin L. <u>Read</u>
-+ Ch. 7: The Sign of the Cross: Vertical and Horizontal Tensions in Vietnamese Church-State Relations [[abstract](#7Chu)]
++ Ch. 7: The Sign of the Cross: Vertical and Horizontal Tensions in Vietnamese Church-State Relations [[abstract](#7Chu)]  
 Lan T. <u>Chu</u>
-+ Ch. 8: State Shaping of Community-Level Politics: Residents' Committees in Singapore [[abstract](#8Ooi)]
++ Ch. 8: State Shaping of Community-Level Politics: Residents' Committees in Singapore [[abstract](#8Ooi)]  
 <u>Ooi</u> Giok Ling
 
 ## Abstracts
