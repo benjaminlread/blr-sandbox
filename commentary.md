@@ -6,12 +6,12 @@ subtitle: Ben Read / commentary
 ## Commentary
 
 + "[Do Street Protests Work in China](http://www.chinafile.com/conversation/do-street-protests-work-china)," <U>ChinaFile</U>, June 14, 2017
-+ "Taiwan's 9 in 1 Elections," panel discussion, <U>Foreign Policy Research Institute</U>, December 3, 2014. [[recording](http://www.fpri.org/multimedia/2014/12/taiwans-9-1-elections-audio)]
++ "[Taiwan's 9 in 1 Elections](http://www.fpri.org/multimedia/2014/12/taiwans-9-1-elections-audio)," panel discussion, <U>Foreign Policy Research Institute</U>, December 3, 2014.
 + "[Chinese Vice President Xi Visits Iowa: Branding the PRC's Next Leader](http://www.foreignaffairs.com/articles/137222/benjamin-l-read-and-zhang-gang/chinese-vice-president-xi-visits-iowa)" (with Zhang Gang), <U>Foreign Affairs</U> web site, February 14, 2012
 + "[Hu Jingcao on Liang Sicheng and Lin Huiyin](http://www.thechinabeat.org/?p=2958)," my interview in <U>The China Beat</U> (December 6, 2010) with the maker of two historical documentaries that cross the US-China divide. [Chinese-language version](http://blog.sina.com.cn/s/blog_6acd7d860100nhjr.html)
-+ "Political and Social Reform in China: Alive and Walking" (with George J. Gilboy), <U>The Washington Quarterly</U> Vol. 31, No. 3 (Summer 2008), pp. 143-164. Click [here](http://www.twq.com/08summer/index.cfm?id=308) for summary with link to full text.
++ "[Political and Social Reform in China: Alive and Walking](http://www.twq.com/08summer/index.cfm?id=308)" (with George J. Gilboy), <U>The Washington Quarterly</U> Vol. 31, No. 3 (Summer 2008), pp. 143-164.
 + [Interview](http://thechinabeat.blogspot.com/2008/02/benjamin-read-on-homeowners-protests-in.html) with Angilee Shah of <U>The China Beat</U> (February 26, 2008) on homeowner protests in Shanghai. Reprinted in Kate Merkel-Hess, Kenneth L. Pomeranz, and Jeffrey N. Wasserstrom, eds., <U>China in 2008: A Year of Great Significance</U> (Lanham, MA: Rowman & Littlefield, 2009), pp. 19-21.
-+ "Cong meiri yi bei 'fennu' dao 'dimian zuozhan' [From a 'Daily Cup of Outrage' to the 'Ground War'], <U>21 Shiji Jingji Baodao</U> [21st Century Economic Report] November 1, 2004. [Full text](http://benread.net/publications/BenRead-2004-DimianZuozhan.htm)
++ "[Cong meiri yi bei 'fennu' dao 'dimian zuozhan'](../publications/BenRead-2004-DimianZuozhan.htm)" [From a 'Daily Cup of Outrage' to the 'Ground War'], <U>21 Shiji Jingji Baodao</U> [21st Century Economic Report] November 1, 2004.
 
 ## Reviews
 
