@@ -1,3 +1,7 @@
+---
+layout: page
+title: Reading-Response Papers
+---
 ## Instructions for reading-response papers (<u>undergraduates</u>)
 
 Reading responses should be one to two paragraphs in length &mdash; a little longer if you get inspired. They must be double spaced, and printed in 11 or 12 point font. No cover page is necessary, but be sure not to leave out your name and the date. I expect your reading response to be carefully proofread and free from typographical and grammatical errors. Turn in a hard copy of your response in class.
@@ -6,7 +10,7 @@ Your reading response should constitute an answer to one of the discussion quest
 
 ## Instructions for reading-response papers (<u>graduate students</u>)
 
-Reading responses should be at least three pages and one thousand words each, double spaced, 11 or 12 point font. Do not add a cover page, but do be sure to put your name and the date at the top of the first page. I recommend that you use the MLA in-text citation style for references to the readings you are discussing; see [this page](http://politics.ucsc.edu/undergraduate/citation.php) for details. Be sure to give specific page numbers where appropriate. When citing assigned readings, you need not provide a bibliography at the end of your paper; only include a bibliography for things you cite that are not on the syllabus (if any). Please proofread carefully -- I expect your work to be careful and well-polished -- and consult this [checklist](http://benread.net/forstudents/ChecklistForWrittenWork.htm) before submitting your reading response.
+Reading responses should be at least three pages and one thousand words each, double spaced, 11 or 12 point font. Do not add a cover page, but do be sure to put your name and the date at the top of the first page. I recommend that you use the MLA in-text citation style for references to the readings you are discussing; see [this page](http://politics.ucsc.edu/undergraduate/citation.php) for details. Be sure to give specific page numbers where appropriate. When citing assigned readings, you need not provide a bibliography at the end of your paper; only include a bibliography for things you cite that are not on the syllabus (if any). Please proofread carefully &mdash; I expect your work to be careful and well-polished &mdash; and consult this [checklist](http://benread.net/forstudents/ChecklistForWrittenWork.htm) before submitting your reading response.
 
 We read the things we read in seminar for a number of reasons. Some of the main ones are: to acquaint you with the literature, to consider examples (positive and not-so-positive) of how others have contributed to a given line of inquiry, to get practice in assessing others’ work, and to identify opportunities for future contributions of original research. The point of the reading response is to engage intelligently with the readings with one or more of these purposes in mind and <u>to make an argument</u> about them.
 
