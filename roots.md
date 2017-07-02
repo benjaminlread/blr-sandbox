@@ -24,15 +24,15 @@ A close look at these organizations provides insight into the micro-level fabric
 + List of Illustrations ix
 + Acknowledgments xi
 + Note on Names, Terms, and Romanization xv
-+ \1. Introduction: Administration at the Grass Roots in East and Southeast Asia 1
-+ \2. The Little Platoon: Structuring the Neighborhood 31
-+ 3. Elections, Bogus and Bona Fide 69
-+ 4. Power Relations at the Alley Level 93
-+ 5. Perceptions and Interaction 132
-+ 6. Thick Networks and State-Mobilized Volunteers 168
-+ 7. Thin Networks and the Appeals of Organic Statism 208
-+ 8. The Landscape of Grassroots Administration: Comparative Cases 237
-+ 9. Conclusion 257
++ 1 Introduction: Administration at the Grass Roots in East and Southeast Asia 1
++ 2 The Little Platoon: Structuring the Neighborhood 31
++ 3 Elections, Bogus and Bona Fide 69
++ 4 Power Relations at the Alley Level 93
++ 5 Perceptions and Interaction 132
++ 6 Thick Networks and State-Mobilized Volunteers 168
++ 7 Thin Networks and the Appeals of Organic Statism 208
++ 8 The Landscape of Grassroots Administration: Comparative Cases 237
++ 9 Conclusion 257
 + Appendix 1: Research Methods 285
 + Appendix 2: Beyond the Two Capitals 294
 + Notes 301
