@@ -35,10 +35,10 @@ Lan T. <u>Chu</u>
 Chapter 1  
 Benjamin L. <u>Read</u>  
 Politics Department  
-University of California, Santa Cruz (United States)
+University of California, Santa Cruz
 Citizen associations that maintain close links with governments are usually lumped into a single conceptual category, that of Leninist or fascist "mass organizations," crude tools of manipulation and political control. Meanwhile, civil society organizations, seen as wholly independent from the state, are often taken as the sole appropriate model for today's world. Yet close inspection of empirical cases from East and Southeast Asia shows a diversity of ways in which states interact with grassroots-level associations. In some cases, such as China, these institutions unquestionably help regimes monitor the population and thus maintain political dominance. Yet even there, and also in democratic settings, government-sponsored organizations typically cultivate close ties with certain types of constituents and enjoy considerable support. Their role in governance and in representation must be understood, together with the problems they pose. This essay surveys theoretical approaches to these issues and puts forward a way of conceptualizing "straddler" groups.
 
-<a name="2Pekkanen"></a>### Japan's Neighborhood Associations: Membership without Advocacy
+### <a name="2Pekkanen"></a>Japan's Neighborhood Associations: Membership without Advocacy
 Chapter 2  
 Robert <u>Pekkanen</u>  
 Henry M. Jackson School of International Studies  
