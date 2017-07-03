@@ -1,41 +1,26 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+---
+layout: page
+title: VBA Macros for Microsoft Word / Annotation
+---
+When I write documents in Word, I like to mark them up with notes that are flagged with customized character styles and usually enclosed in brackets. The VBA macros on this page were designed to help manipulate such notes. They make it easy, for example, to create one, select one, jump to the next one, and convert one into regular text. When a clean version of the document is needed, another macro can delete them all instantly.
 
-<head>
-<title>Ben's VBA Macros for Microsoft Word / Annotation</title>
-<link rel="stylesheet" href="http://benread.net/brdnstyle-macros.css">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-</head>
+True, Word has its own annotation features like comments and hidden text. But I like this way better.
 
-<body>
+![annotation illustration](WordDocumentWithNotes.gif)
 
-<!-- Left Column -->
-<div id="leftcol">
+In my experience, using the keyboard instead of the mouse (as much as possible) is essential for avoiding forearm and wrist pain. It is also faster. Most of these macros are really only useful if [assigned](http://word.mvps.org/faqs/customization/AsgnCmdOrMacroToHotkey.htm) to keystrokes. General information on Word macros [here](http://office.microsoft.com/en-us/word/HA100997691033.aspx#4) and [here](http://word.mvps.org/FAQs/MacrosVBA.htm).
 
-<P class="brdn-topleft"><img src="../elements/BenReaddotnet.gif" alt="Ben Read dot net"></P>
-<P class="homelink-left">[<A target="_top" href="http://benread.net/index.htm">home</A>]</P>
-</div>
+Some of the macros assume that you have character styles named, e.g., "Flag 1". This [document](SampleDocument-Annotation.docm) contains sample styles by way of illustration. Note that [styles](http://www.shaunakelly.com/word/styles/ApplyAStyle.html), too, can be assigned directly to keystrokes, but in some cases I use macros instead (see "Set style to 'Flag 1'").
 
-<!-- Right Column -->
-<div id="rightcol">
+My general macros for Word are [here](Macros-Word-General.html).
 
-<h1>Ben's VBA Macros for Microsoft Word / Annotation</h1>
-<HR align="center" size=1 width="75%">
-<BR>
-<P class="bottomlinepad">When I write documents in Word, I like to mark them up with notes that are flagged with customized character styles and usually enclosed in brackets. The VBA macros on this page were designed to help manipulate such notes. They make it easy, for example, to create one, select one, jump to the next one, and convert one into regular text. When a clean version of the document is needed, another macro can delete them all instantly.</P>
-<P class="bottomlinepad">True, Word has its own annotation features like comments and hidden text. But I like this way better.</P>
+## Select text within nearest brackets from insertion point
 
-<img src="WordDocumentWithNotes.gif" border=1 align=left width="489" height="302">
-<BR clear=all>
+(not including the brackets themselves)
 
-<P class="bottomlinepad toplinepad">In my experience, using the keyboard instead of the mouse (as much as possible) is essential for avoiding forearm and wrist pain. It is also faster. Most of these macros are really only useful if <A target="_top" href="http://word.mvps.org/faqs/customization/AsgnCmdOrMacroToHotkey.htm">assigned</A> to keystrokes. General information on Word macros <A target="_top" href="http://office.microsoft.com/en-us/word/HA100997691033.aspx#4">here</A> and <A target="_top" href="http://word.mvps.org/FAQs/MacrosVBA.htm">here</A>.</P>
-<P class="bottomlinepad">Some of the macros assume that you have character styles named, e.g., "Flag 1". This <A target="_top" href="SampleDocument-Annotation.docm">document</A> contains sample styles by way of illustration. Note that <A target="_top" href="http://www.shaunakelly.com/word/styles/ApplyAStyle.html">styles</A>, too, can be assigned directly to keystrokes, but in some cases I use macros instead (see "Set style to 'Flag 1'").</P>
-<P class="bottomlinepad">My general macros for Word are <A target="_top" href="Macros-Word-General.htm">here</A>.</P>
+Suggested keystroke: Ctrl-[
 
-<h2>Select text within nearest brackets from insertion point</h2>
-(not including the brackets themselves)<BR>
-Suggested keystroke: Ctrl-[<BR>
-<pre class="codeblock">
+```
 Sub SelectToBracketsExclusive()
   With Selection.Find
     .ClearFormatting
@@ -55,12 +40,15 @@ Sub SelectToBracketsExclusive()
   Selection.MoveStart Unit:=wdCharacter, Count:=1
   Selection.MoveEnd Unit:=wdCharacter, Count:=-1
 End Sub
-</pre>
+```
 
-<h2>Select text within nearest brackets from insertion point</h2>
-(including the brackets themselves)<BR>
-Suggested keystroke: Ctrl-Shift-[<BR>
-<pre class="codeblock">
+## Select text within nearest brackets from insertion point
+
+(including the brackets themselves)
+
+Suggested keystroke: Ctrl-Shift-[
+
+```
 Sub SelectToBracketsInclusive()
   With Selection.Find
     .ClearFormatting
@@ -78,11 +66,13 @@ Sub SelectToBracketsInclusive()
     .Text = ""
   End With
 End Sub
-</pre>
+```
 
-<h2>Add brackets around selection</h2>
-Suggested keystroke: Ctrl-]<BR>
-<pre class="codeblock">
+## Add brackets around selection
+
+Suggested keystroke: Ctrl-]
+
+```
 Sub AddBracketsAroundSelection()
   ' Simply inserts adjacent brackets if nothing is selected
   If Selection.Type = wdSelectionIP Then
@@ -106,12 +96,15 @@ Sub AddBracketsAroundSelection()
     Selection.Characters.Last.Font.Reset
   End If
 End Sub
-</pre>
+```
 
-<h2>Clear formatting from text within brackets</h2>
-(and delete the brackets themselves)<BR>
-Suggested keystroke: Ctrl-Shift-]<BR>
-<pre class="codeblock">
+## Clear formatting from text within brackets
+
+(and delete the brackets themselves)
+
+Suggested keystroke: Ctrl-Shift-]
+
+```
 Sub ClearTextWithinBrackets()
   ' Removes char style / formatting within brackets, deletes the brackets
   Application.ScreenUpdating = False
@@ -154,12 +147,15 @@ Sub ClearTextWithinBrackets()
   ActiveDocument.Bookmarks(Index:="LastPosition").Delete
   Application.ScreenUpdating = True
 End Sub
-</pre>
+```
 
-<h2>Delete text in brackets, and the brackets</h2>
-(put insertion point inside the note first)<BR>
-Suggested keystroke: Alt-Ctrl-Shift-]<BR>
-<pre class="codeblock">
+## Delete text in brackets, and the brackets
+
+(put insertion point inside the note first)
+
+Suggested keystroke: Alt-Ctrl-Shift-]
+
+```
 Sub SelectToBracketsDelete()
   With Selection.Find
     .ClearFormatting
@@ -178,11 +174,13 @@ Sub SelectToBracketsDelete()
   ' By not using "delete" method we get around Word's habit of adding spaces
   Selection.Text = ""
 End Sub
-</pre>
+```
 
-<h2>Select to boundaries of style</h2>
-Suggested keystroke: Ctrl-\<BR>
-<pre class="codeblock">
+## Select to boundaries of style
+
+Suggested keystroke: Ctrl-\
+
+```
 Sub SelectToStyleBoundaries()
   Dim StyleName As Variant
   Application.ScreenUpdating = False
@@ -195,11 +193,13 @@ Sub SelectToStyleBoundaries()
   Wend
   Application.ScreenUpdating = True
 End Sub
-</pre>
+```
 
-<h2>Select to boundaries of style, then delete</h2>
-Suggested keystroke: Ctrl-Shift-\<BR>
-<pre class="codeblock">
+## Select to boundaries of style, then delete
+
+Suggested keystroke: Ctrl-Shift-\
+
+```
 Sub SelectToStyleBoundariesAndDelete()
   Dim StyleName As Variant
   Application.ScreenUpdating = False
@@ -213,21 +213,25 @@ Sub SelectToStyleBoundariesAndDelete()
   Application.ScreenUpdating = True
   Selection.Delete
 End Sub
-</pre>
+```
 
-<h2>Set style to "Flag 1"</h2>
-Suggested keystroke: Alt-Shift-F<BR>
-<pre class="codeblock">
+## Set style to "Flag 1"
+
+Suggested keystroke: Alt-Shift-F
+
+```
 Sub SetStyleToFlag1()
   ' If no text selected, select text within the nearest brackets
   If Selection.Start = Selection.End Then SelectToBracketsExclusive
   Selection.Style = ActiveDocument.Styles("Flag 1")
 End Sub
-</pre>
+```
 
-<h2>Find next instance of "Flag 1" style</h2>
-Suggested keystroke: Ctrl-Shift-F<BR>
-<pre class="codeblock">
+## Find next instance of "Flag 1" style
+
+Suggested keystroke: Ctrl-Shift-F
+
+```
 Sub FindNextInstanceOfFlag1()
   Application.ScreenUpdating = False
   ' First, moves to end of Flag1 range if insertion point is in Flag1
@@ -247,11 +251,13 @@ Sub FindNextInstanceOfFlag1()
   Selection.Collapse Direction:=wdCollapseStart
   Application.ScreenUpdating = True
 End Sub
-</pre>
+```
 
-<h2>Delete all text with "Flag 1" style</h2>
-(This affects the entire document; I do not assign it to a keystroke.)<BR>
-<pre class="codeblock">
+## Delete all text with "Flag 1" style
+
+(This affects the entire document; I do not assign it to a keystroke.)
+
+```
 Sub DeleteTextWithFlag1Style()
   ' First, confirm that user wants to do this
   Dim varResponse As Variant
@@ -279,11 +285,13 @@ Sub DeleteTextWithFlag1Style()
     .Wrap = wdFindAsk
   End With
 End Sub
-</pre>
+```
 
-<h2>Delete all flagged text</h2>
-(This affects the entire document; I do not assign it to a keystroke.)<BR>
-<pre class="codeblock">
+## Delete all flagged text
+
+(This affects the entire document; I do not assign it to a keystroke.)
+
+```
 Sub DeleteAllFlaggedText()
   ' First, confirm that user wants to do this
   Dim varResponse As Variant
@@ -317,14 +325,6 @@ Sub DeleteAllFlaggedText()
     .Wrap = wdFindAsk
   End With
 End Sub
-</pre>
+```
 
-<BR>
-Comments welcome. Updated November 20, 2013.<BR>
-<P class="homelink-right">Click <A target="_top" href="http://benread.net/index.htm">here</A> to return to the main page.</P>
-
-</div>
-
-</body>
-
-</html>
+Comments welcome. Updated November 20, 2013.
