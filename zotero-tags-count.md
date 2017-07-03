@@ -6,7 +6,7 @@ This do-file generates a list of tags (keywords) in a Zotero library. In the res
 
 ## tag_count.do
 
-```
+```stata
 * tag_count.do
 *   Creates dataset of tags with frequencies from exported Zotero database
 *   Assumes Zotero library has been exported to "Library.csv" in current directory
