@@ -22,8 +22,7 @@ End Sub
 
 ## Delete to end of line
 
-Without also deleting a possible end-of-paragraph marker.
-
+Without also deleting a possible end-of-paragraph marker.  
 Suggested keystroke: Alt-Delete
 
 ```
@@ -38,8 +37,7 @@ End Sub
 
 ## Insert QuickMark
 
-Quickly mark a point in the document to return to later. WordPerfect had a feature like this, as does every decent text editor. I couldn't live without this. In fact, I keep two sets of these, QuickMark1 and QuickMark2.
-
+Quickly mark a point in the document to return to later. WordPerfect had a feature like this, as does every decent text editor. I couldn't live without this. In fact, I keep two sets of these, QuickMark1 and QuickMark2.  
 Suggested keystroke: Ctrl-Shift-Q
 
 ```
@@ -79,8 +77,7 @@ End Sub
 
 ## Select paragraph
 
-An alternative to the F8 x 4 then Escape method.
-
+An alternative to the F8 x 4 then Escape method.  
 Suggested keystroke: Ctrl-Shift-P
 
 ```
@@ -166,8 +163,7 @@ End Sub
 
 ## Scroll up one line in document
 
-Without moving the insertion point. Equivalent to flicking the mouse control wheel up a notch.
-
+Without moving the insertion point. Equivalent to flicking the mouse control wheel up a notch.  
 Suggested keystroke: Alt-PageUp
 
 ```
@@ -178,8 +174,7 @@ End Sub
 
 ## Scroll down one line in document
 
-Without moving the insertion point. Equivalent to flicking the mouse control wheel down a notch.
-
+Without moving the insertion point. Equivalent to flicking the mouse control wheel down a notch.  
 Suggested keystroke: Alt-PageDown
 
 ```
@@ -190,8 +185,7 @@ End Sub
 
 ## Zoom in
 
-Courtesy of [Allen Wyatt](http://word.tips.net/T001734_Zooming_with_the_Keyboard.html)
-
+Courtesy of [Allen Wyatt](http://word.tips.net/T001734_Zooming_with_the_Keyboard.html)  
 Suggested keystroke: Shift-Ctrl-PageDown
 
 ```
@@ -205,8 +199,7 @@ End Sub
 
 ## Zoom out
 
-Courtesy of [Allen Wyatt](http://word.tips.net/T001734_Zooming_with_the_Keyboard.html)
-
+Courtesy of [Allen Wyatt](http://word.tips.net/T001734_Zooming_with_the_Keyboard.html)  
 Suggested keystroke: Shift-Ctrl-PageUp
 
 ```
