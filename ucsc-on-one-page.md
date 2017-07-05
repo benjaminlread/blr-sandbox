@@ -4,138 +4,126 @@ title: UC Santa Cruz on One Page
 ---
 Posted to provide a convenient, clickable overview of the UCSC campus
 
-<!-- Left column -->
+<!-- Left Column -->
 <div id="leftcol">
 
-<P class="bottomlinepad">Campus</P>
-<P class="indentsmall"><A target="_top" href="http://www.ucsc.edu/">UCSC home</A></P>
-<P class="indentsmall"><A target="_top" href="http://chancellor.ucsc.edu/">Chancellor</A></P>
-<P class="indentsmall"><A target="_top" href="http://www1.ucsc.edu/administration/evc/">Campus Provost / EVC</A></P>
-<P class="indentsmall bottomlinepad"><A target="_top" href="http://senate.ucsc.edu/">Academic Senate</A></P>
+### Campus
+&nbsp;&nbsp;[UCSC home](http://www.ucsc.edu/)
+&nbsp;&nbsp;[Chancellor](http://chancellor.ucsc.edu/)
+&nbsp;&nbsp;[Campus Provost / EVC](http://www1.ucsc.edu/administration/evc/)
+&nbsp;&nbsp;[Academic Senate](http://senate.ucsc.edu/)
 
-<P class="bottomlinepad">Academic Units under EVC</P>
+### Academic Units under EVC
 
-<P class="indentsmall"><A target="_top" href="http://academicaffairs.ucsc.edu/">Academic Affairs</A></P>
-<P class="indentsmall"><A target="_top" href="http://graddiv.ucsc.edu/">Graduate Division</A></P>
-<P class="indentsmall"><A target="_top" href="http://library.ucsc.edu/">Library</A></P>
-<P class="indentsmall"><A target="_top" href="http://research.ucsc.edu/">Research</A></P>
-<P class="indentsmall"><A target="_top" href="http://svi.ucsc.edu/">Silicon Valley Initiatives</A></P>
-<P class="indentsmall"><A target="_top" href="http://www.ucsc-extension.edu/">UCSC Extension</A></P>
-<P class="indentsmall bottomlinepad"><A target="_top" href="http://vpdue.ucsc.edu/">Undergraduate Education</A></P>
+&nbsp;&nbsp;[Academic Affairs](http://academicaffairs.ucsc.edu/)
+&nbsp;&nbsp;[Graduate Division](http://graddiv.ucsc.edu/)
+&nbsp;&nbsp;[Library](http://library.ucsc.edu/)
+&nbsp;&nbsp;[Research](http://research.ucsc.edu/)
+&nbsp;&nbsp;[Silicon Valley Initiatives](http://svi.ucsc.edu/)
+&nbsp;&nbsp;[UCSC Extension](http://www.ucsc-extension.edu/)
+&nbsp;&nbsp;[Undergraduate Education](http://vpdue.ucsc.edu/)
 
-<P class="bottomlinepad">Administrative Units under EVC</P>
-<P class="indentsmall"><A target="_top" href="http://bas.ucsc.edu/">Business & Admin. Services</A></P>
-<P class="indentsmall"><A target="_top" href="http://www1.ucsc.edu/administration/campuscounsel/">Campus Counsel</A></P>
-<P class="indentsmall"><A target="_top" href="http://its.ucsc.edu/">Information Technology</A></P>
-<P class="indentsmall"><A target="_top" href="http://planning.ucsc.edu/">Planning & Budget</A></P>
-<P class="indentsmall"><A target="_top" href="http://studentaffairs.ucsc.edu/">Student Services</A></P>
-<P class="indentsmall bottomlinepad"><A target="_top" href="http://urelations.ucsc.edu/">University Relations</A></P>
+### Administrative Units under EVC
+&nbsp;&nbsp;[Business & Admin. Services](http://bas.ucsc.edu/)
+&nbsp;&nbsp;[Campus Counsel](https://lex.ucsc.edu)
+&nbsp;&nbsp;[Information Technology](http://its.ucsc.edu/)
+&nbsp;&nbsp;[Planning & Budget](http://planning.ucsc.edu/)
+&nbsp;&nbsp;[Student Services](http://studentaffairs.ucsc.edu/)
+&nbsp;&nbsp;[University Relations](http://urelations.ucsc.edu/)
 
-<P class="bottomlinepad">Colleges</P>
-<P class="indentsmall"><A target="_top" href="http://cowell.ucsc.edu/">Cowell</A></P>
-<P class="indentsmall"><A target="_top" href="http://crown.ucsc.edu/">Crown</A></P>
-<P class="indentsmall"><A target="_top" href="http://kresge.ucsc.edu/">Kresge</A></P>
-<P class="indentsmall"><A target="_top" href="http://merrill.ucsc.edu/">Merrill</A></P>
-<P class="indentsmall"><A target="_top" href="http://oakes.ucsc.edu/">Oakes</A></P>
-<P class="indentsmall"><A target="_top" href="http://porter.ucsc.edu/">Porter</A></P>
-<P class="indentsmall"><A target="_top" href="http://stevenson.ucsc.edu/">Stevenson</A></P>
-<P class="indentsmall"><A target="_top" href="http://rachelcarson.ucsc.edu/">Rachel Carson</A></P>
-<P class="indentsmall"><A target="_top" href="http://collegenine.ucsc.edu/">College Nine</A></P>
-<P class="indentsmall bottomlinepad"><A target="_top" href="http://collegeten.ucsc.edu/">College Ten</A></P>
+### Colleges
+&nbsp;&nbsp;[Cowell](http://cowell.ucsc.edu/)
+&nbsp;&nbsp;[Crown](http://crown.ucsc.edu/)
+&nbsp;&nbsp;[Kresge](http://kresge.ucsc.edu/)
+&nbsp;&nbsp;[Merrill](http://merrill.ucsc.edu/)
+&nbsp;&nbsp;[Oakes](http://oakes.ucsc.edu/)
+&nbsp;&nbsp;[Porter](http://porter.ucsc.edu/)
+&nbsp;&nbsp;[Stevenson](http://stevenson.ucsc.edu/)
+&nbsp;&nbsp;[Rachel Carson](http://rachelcarson.ucsc.edu/)
+&nbsp;&nbsp;[College Nine](http://collegenine.ucsc.edu/)
+&nbsp;&nbsp;[College Ten](http://collegeten.ucsc.edu/)
 
-<!-- End of Subcolumn 1 -->
+### Key Resources
+&nbsp;&nbsp;[Calendars](http://www.ucsc.edu/tools/calendars.html)
+&nbsp;&nbsp;Courses:
+&nbsp;&nbsp;&nbsp;&nbsp;[Class Search](https://pisa.ucsc.edu/class_search/)
+&nbsp;&nbsp;&nbsp;&nbsp;[General Catalog](http://registrar.ucsc.edu/catalog/index.html)
+&nbsp;&nbsp;[Information Technology](http://its.ucsc.edu/)
+&nbsp;&nbsp;[Library](http://library.ucsc.edu/) resources
+&nbsp;&nbsp;[Maps](http://maps.ucsc.edu/) of the campus
+&nbsp;&nbsp;[News](http://news.ucsc.edu/) about the campus
+&nbsp;&nbsp;[People](http://www.ucsc.edu/tools/people.html) (directories)
+&nbsp;&nbsp;[Recreation](http://wellness.ucsc.edu/) (wellness)
+&nbsp;&nbsp;[Registrar](http://reg.ucsc.edu/)
+
+### Notable Things
+
+&nbsp;&nbsp;[50th Anniversary of UCSC](http://50years.ucsc.edu/)
+&nbsp;&nbsp;[The Farm](http://casfs.ucsc.edu/) (Center for Agroecology and Sustainable Food Systems)
+&nbsp;&nbsp;[The Arboretum](https://arboretum.ucsc.edu)
+&nbsp;&nbsp;[Cultural Studies](http://ccs.ihr.ucsc.edu/)
+&nbsp;&nbsp;[Global, International, and Regional Studies](http://cgirs.ucsc.edu/)
+&nbsp;&nbsp;[Institute for Humanities Research](http://ihr.ucsc.edu/)
+&nbsp;&nbsp;[Lick Observatory](http://www.ucolick.org/)
+&nbsp;&nbsp;[Regional History Project](http://library.ucsc.edu/regional-history-project)
+&nbsp;&nbsp;[Science Internship Program](http://ucsc-sip.org/)
+&nbsp;&nbsp;[Seymour Marine Discovery Center](http://seymourcenter.ucsc.edu/)
+
+<!-- End of Left Column -->
 </div>
 
-<!-- Subcolumn 2 -->
-<div id="subcol_2">
+<!-- Right Column -->
+<div id="rightcol">
 
-<P class="bottomlinepad">Division of the <A target="_top" href="http://arts.ucsc.edu/">Arts</A></P>
-<P class="indentsmall"><A target="_top" href="http://art.ucsc.edu/">Art</A></P>
-<P class="indentsmall"><A target="_top" href="http://danm.ucsc.edu/">Digital Arts & New Media</A></P>
-<P class="indentsmall"><A target="_top" href="http://film.ucsc.edu/">Film & Digital Media</A></P>
-<P class="indentsmall"><A target="_top" href="http://havc.ucsc.edu/">History of Art & Visual Culture</A></P>
-<P class="indentsmall"><A target="_top" href="http://music.ucsc.edu/">Music</A></P>
-<P class="indentsmall bottomlinepad"><A target="_top" href="http://theater.ucsc.edu/">Theater Arts</A></P>
+### Division of the [Arts](http://arts.ucsc.edu/)
+&nbsp;&nbsp;[Art](http://art.ucsc.edu/)
+&nbsp;&nbsp;[Digital Arts & New Media](http://danm.ucsc.edu/)
+&nbsp;&nbsp;[Film & Digital Media](http://film.ucsc.edu/)
+&nbsp;&nbsp;[History of Art & Visual Culture](http://havc.ucsc.edu/)
+&nbsp;&nbsp;[Music](http://music.ucsc.edu/)
+&nbsp;&nbsp;[Theater Arts](http://theater.ucsc.edu/)
 
-<P class="bottomlinepad">Division of <A target="_top" href="http://humanities.ucsc.edu/">Humanities</A></P>
-<P class="indentsmall"><A target="_top" href="http://cres.ucsc.edu/">Critical Race & Ethnic Studies</A></P>
-<P class="indentsmall"><A target="_top" href="http://feministstudies.ucsc.edu/">Feminist Studies</A></P>
-<P class="indentsmall"><A target="_top" href="http://history.ucsc.edu/">History</A></P>
-<P class="indentsmall"><A target="_top" href="http://histcon.ucsc.edu/">History of Consciousness</A></P>
-<P class="indentsmall"><A target="_top" href="http://language.ucsc.edu/">Languages and Applied Linguistics</A></P>
-<P class="indentsmall"><A target="_top" href="http://ling.ucsc.edu/">Linguistics</A></P>
-<P class="indentsmall"><A target="_top" href="http://literature.ucsc.edu/">Literature</A></P>
-<P class="indentsmall"><A target="_top" href="http://philosophy.ucsc.edu/">Philosophy</A></P>
-<P class="indentsmall bottomlinepad"><A target="_top" href="http://writing.ucsc.edu/">Writing Program</A></P>
+### Division of [Humanities](http://humanities.ucsc.edu/)
+&nbsp;&nbsp;[Critical Race & Ethnic Studies](http://cres.ucsc.edu/)
+&nbsp;&nbsp;[Feminist Studies](http://feministstudies.ucsc.edu/)
+&nbsp;&nbsp;[History](http://history.ucsc.edu/)
+&nbsp;&nbsp;[History of Consciousness](http://histcon.ucsc.edu/)
+&nbsp;&nbsp;[Languages and Applied Linguistics](http://language.ucsc.edu/)
+&nbsp;&nbsp;[Linguistics](http://ling.ucsc.edu/)
+&nbsp;&nbsp;[Literature](http://literature.ucsc.edu/)
+&nbsp;&nbsp;[Philosophy](http://philosophy.ucsc.edu/)
+&nbsp;&nbsp;[Writing Program](http://writing.ucsc.edu/)
 
-<P class="bottomlinepad">Division of <A target="_top" href="http://pbsci.ucsc.edu/">Physical & Biological Sciences</A></P>
-<P class="indentsmall"><A target="_top" href="http://www.astro.ucsc.edu/">Astronomy & Astrophysics</A></P>
-<P class="indentsmall"><A target="_top" href="http://chemistry.ucsc.edu/">Chemistry & Biochemistry</A></P>
-<P class="indentsmall"><A target="_top" href="http://es.ucsc.edu/">Earth & Planetary Sciences</A></P>
-<P class="indentsmall"><A target="_top" href="http://eeb.ucsc.edu/">Ecology & Evolutionary Biology</A></P>
-<P class="indentsmall"><A target="_top" href="http://math.ucsc.edu/">Mathematics</A></P>
-<P class="indentsmall"><A target="_top" href="http://etox.ucsc.edu/">Microbiology & Environmental Toxicology</A></P>
-<P class="indentsmall"><A target="_top" href="http://www.mcd.ucsc.edu/">Molecular Cell & Developmental Biology</A></P>
-<P class="indentsmall"><A target="_top" href="http://oceansci.ucsc.edu/">Ocean Sciences</A></P>
-<P class="indentsmall"><A target="_top" href="http://physics.ucsc.edu/">Physics</A></P>
-<P class="indentsmall bottomlinepad"><A target="_top" href="http://scicom.ucsc.edu/">Science Communication</A></P>
+### Division of [Physical & Biological Sciences](http://pbsci.ucsc.edu/)
+&nbsp;&nbsp;[Astronomy & Astrophysics](http://www.astro.ucsc.edu/)
+&nbsp;&nbsp;[Chemistry & Biochemistry](http://chemistry.ucsc.edu/)
+&nbsp;&nbsp;[Earth & Planetary Sciences](http://es.ucsc.edu/)
+&nbsp;&nbsp;[Ecology & Evolutionary Biology](http://eeb.ucsc.edu/)
+&nbsp;&nbsp;[Mathematics](http://math.ucsc.edu/)
+&nbsp;&nbsp;[Microbiology & Environmental Toxicology](http://etox.ucsc.edu/)
+&nbsp;&nbsp;[Molecular Cell & Developmental Biology](http://www.mcd.ucsc.edu/)
+&nbsp;&nbsp;[Ocean Sciences](http://oceansci.ucsc.edu/)
+&nbsp;&nbsp;[Physics](http://physics.ucsc.edu/)
+&nbsp;&nbsp;[Science Communication](http://scicom.ucsc.edu/)
 
-<P class="bottomlinepad">Division of <A target="_top" href="http://socialsciences.ucsc.edu/">Social Sciences</A></P>
-<P class="indentsmall"><A target="_top" href="http://anthro.ucsc.edu/">Anthropology</A></P>
-<P class="indentsmall"><A target="_top" href="http://communitystudies.ucsc.edu/">Community Studies</A></P>
-<P class="indentsmall"><A target="_top" href="http://econ.ucsc.edu/">Economics</A></P>
-<P class="indentsmall"><A target="_top" href="http://education.ucsc.edu/">Education</A></P>
-<P class="indentsmall"><A target="_top" href="http://envs.ucsc.edu/">Environmental Studies</A></P>
-<P class="indentsmall"><A target="_top" href="http://lals.ucsc.edu/">Latin American & Latino Studies</A></P>
-<P class="indentsmall"><A target="_top" href="http://politics.ucsc.edu/">Politics</A></P>
-<P class="indentsmall"><A target="_top" href="http://psychology.ucsc.edu/">Psychology</A></P>
-<P class="indentsmall bottomlinepad"><A target="_top" href="http://sociology.ucsc.edu/">Sociology</A></P>
+### Division of [Social Sciences](http://socialsciences.ucsc.edu/)
+&nbsp;&nbsp;[Anthropology](http://anthro.ucsc.edu/)
+&nbsp;&nbsp;[Community Studies](http://communitystudies.ucsc.edu/)
+&nbsp;&nbsp;[Economics](http://econ.ucsc.edu/)
+&nbsp;&nbsp;[Education](http://education.ucsc.edu/)
+&nbsp;&nbsp;[Environmental Studies](http://envs.ucsc.edu/)
+&nbsp;&nbsp;[Latin American & Latino Studies](http://lals.ucsc.edu/)
+&nbsp;&nbsp;[Politics](http://politics.ucsc.edu/)
+&nbsp;&nbsp;[Psychology](http://psychology.ucsc.edu/)
+&nbsp;&nbsp;[Sociology](http://sociology.ucsc.edu/)
 
-<P class="bottomlinepad">Jack Baskin School of <A target="_top" href="http://soe.ucsc.edu/">Engineering</A></P>
-<P class="indentsmall"><A target="_top" href="http://ams.ucsc.edu/">Applied Mathematics & Statistics</A></P>
-<P class="indentsmall"><A target="_top" href="http://bme.ucsc.edu/">Biomolecular Engineering</A></P>
-<P class="indentsmall"><A target="_top" href="http://ce.ucsc.edu/">Computer Engineering</A></P>
-<P class="indentsmall"><A target="_top" href="http://cs.ucsc.edu/">Computer Science</A></P>
-<P class="indentsmall"><A target="_top" href="http://ee.ucsc.edu/">Electrical Engineering</A></P>
-<P class="indentsmall"><A target="_top" href="http://tim.ucsc.edu/">Technology & Information Management</A></P>
+### Jack Baskin School of [Engineering](http://soe.ucsc.edu/)
+&nbsp;&nbsp;[Applied Mathematics & Statistics](http://ams.ucsc.edu/)
+&nbsp;&nbsp;[Biomolecular Engineering](http://bme.ucsc.edu/)
+&nbsp;&nbsp;[Computer Engineering](http://ce.ucsc.edu/)
+&nbsp;&nbsp;[Computer Science](http://cs.ucsc.edu/)
+&nbsp;&nbsp;[Electrical Engineering](http://ee.ucsc.edu/)
+&nbsp;&nbsp;[Technology & Information Management](http://tim.ucsc.edu/)
 
-<!-- End of Subcolumn 2 -->
+<!-- End of Right column -->
 </div>
-
-<!-- Subcolumn 3 -->
-<div id="subcol_3">
-
-<P class="bottomlinepad">Key Resources</P>
-<P class="indentsmall"><A target="_top" href="http://www.ucsc.edu/tools/calendars.html">Calendars</A></P>
-<P class="indentsmall">Courses:</P>
-<P class="indentmedium"><A target="_top" href="https://pisa.ucsc.edu/class_search/">Class Search</A></P>
-<P class="indentmedium"><A target="_top" href="http://registrar.ucsc.edu/catalog/index.html">General Catalog</A></P>
-<P class="indentsmall"><A target="_top" href="http://its.ucsc.edu/">Information Technology</A></P>
-<P class="indentsmall"><A target="_top" href="http://library.ucsc.edu/">Library</A> resources</P>
-<P class="indentsmall"><A target="_top" href="http://maps.ucsc.edu/">Maps</A> of the campus</P>
-<P class="indentsmall"><A target="_top" href="http://news.ucsc.edu/">News</A> about the campus</P>
-<P class="indentsmall"><A target="_top" href="http://www.ucsc.edu/tools/people.html">People</A> (directories)</P>
-<P class="indentsmall"><A target="_top" href="http://wellness.ucsc.edu/">Recreation</A> (wellness)</P>
-<P class="indentsmall bottomlinepad"><A target="_top" href="http://reg.ucsc.edu/">Registrar</A></P>
-
-<P class="bottomlinepad">Notable Things</P>
-
-<P class="indentsmall"><A target="_top" href="http://50years.ucsc.edu/">50th Anniversary of UCSC</A></P>
-<P class="indentsmall"><A target="_top" href="http://casfs.ucsc.edu/">Center for Agroecology and Sustainable Food Systems (The Farm)</A></P>
-<P class="indentsmall"><A target="_top" href="http://ccs.ihr.ucsc.edu/">Cultural Studies</A></P>
-<P class="indentsmall"><A target="_top" href="http://cgirs.ucsc.edu/">Global, International, and Regional Studies</A></P>
-<P class="indentsmall"><A target="_top" href="http://ihr.ucsc.edu/">Institute for Humanities Research</A></P>
-<P class="indentsmall"><A target="_top" href="http://www.ucolick.org/">Lick Observatory</A></P>
-<P class="indentsmall"><A target="_top" href="http://library.ucsc.edu/regional-history-project">Regional History Project</A></P>
-<P class="indentsmall"><A target="_top" href="http://ucsc-sip.org/">Science Internship Program</A></P>
-<P class="indentsmall"><A target="_top" href="http://seymourcenter.ucsc.edu/">Seymour Marine Discovery Center</A></P>
-
-<!-- End of Subcolumn 3 -->
-</div>
-
-<!-- End of Right Column -->
-</div>
-
-</body>
-
-</html>
