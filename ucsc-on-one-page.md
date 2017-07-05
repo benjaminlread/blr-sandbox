@@ -1,30 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+---
+layout: page
+title: UC Santa Cruz on One Page
+---
+Posted to provide a convenient, clickable overview of the UCSC campus
 
-<head>
-<title>UCSC on One Page</title>
-<link rel="stylesheet" href="brdnstyle-multicol.css">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-</head>
-
-<body>
-
-<!-- Left Column -->
+<!-- Left column -->
 <div id="leftcol">
-
-<P class="brdn-topleft"><img src="elements/BenReaddotnet.gif" alt="Ben Read dot net"></P>
-<P class="homelink-left">[<A target="_top" href="http://benread.net/index.htm">home</A>]</P>
-</div>
-
-<!-- Right Column -->
-<div id="rightcol">
-
-<h1>UCSC on One Page</h1>
-<P class="center">Posted to provide a convenient, clickable overview of the campus</P>
-<HR align="center" size=1 width="75%">
-
-<!-- Subcolumn 1 -->
-<div id="subcol_1">
 
 <P class="bottomlinepad">Campus</P>
 <P class="indentsmall"><A target="_top" href="http://www.ucsc.edu/">UCSC home</A></P>

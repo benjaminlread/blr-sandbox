@@ -13,6 +13,8 @@ Text on left - paragraph 2
 
 &nbsp;&nbsp;Text on left -- maybe indented two spaces?
 
+### Here is a level-3 heading
+
 What if there is a really long line of text like this one is?
 
 </div>
@@ -20,6 +22,8 @@ What if there is a really long line of text like this one is?
 Text on right
 
 Text on right - paragraph 2
+
+### Here is a level-3 heading
 
 What if there is a really long line of text like this one is?
 
