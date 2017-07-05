@@ -5,9 +5,9 @@ title: Two column test page
 
 This is a test page
 
-<div class="col-left">
+<div id="leftcol">
 Text on left
 </div>
-<div class="col-right">
+<div id="rightcol">
 Text on right
 </div>

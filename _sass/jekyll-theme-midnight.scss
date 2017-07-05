@@ -315,6 +315,16 @@ section {
 
   }
 
+    #leftcol {
+      float: left;
+      width: 200px;
+    }
+    #rightcol {
+      float: right;
+      width: 200px;
+    }
+
+
 }
 
 @media print, screen and (max-width: 720px) {
