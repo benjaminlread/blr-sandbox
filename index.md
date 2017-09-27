@@ -6,3 +6,4 @@ subtitle: New subtitle
 
 ## Redesign of homepage
 
+test of a [link](benread.net)
