@@ -184,7 +184,7 @@ dt {
 
       a {
         color: white;
-        border: 1px solid #145434; /* Indeed adds border; does it do much? */
+        border: 1px solid #145434; /* Adds slight 3d effect */
         /* background: linear_gradient(#93bd20, #659e10); APPARENTLY DOES NOTHING */
         border-radius: 2px;
         box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
@@ -198,8 +198,8 @@ dt {
         text-align:center;
 
         &:hover {
-          background: linear_gradient(#749619, #527f0e);
-          background-color: #228e58;
+          /* background: linear_gradient(#749619, #527f0e); */
+          background-color: #196d43;
           /* border: 1px solid #527f0e; */
           box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
         }
