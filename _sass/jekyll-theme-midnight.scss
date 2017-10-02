@@ -196,6 +196,7 @@ dt {
         font-size:16px;
         display:inline-block;
         text-align:center;
+        text-rendering:optimizeLegibility; /* Added by Ben */
 
         &:hover {
           /* background: linear_gradient(#749619, #527f0e); */
