@@ -180,7 +180,7 @@ dt {
       color: white;
       line-height: 50px;
       text-shadow: 0px 1px 0px rgba(0,0,0,.2);
-      font-size: 14px;
+      font-size: 16px;
 
       a {
         color: white;
@@ -194,10 +194,10 @@ dt {
         margin-top: 6px;
         line-height:16px;
         font-size:16px;
-        font-weight:600; /* Added by Ben */
+        /* font-weight:600; Added by Ben. Makes it ugly. */
         display:inline-block;
         text-align:center;
-        text-rendering:optimizeLegibility; /* Added by Ben */
+        text-rendering:optimizeLegibility; /* Added by Ben; does nothing */
 
         &:hover {
           /* background: linear_gradient(#749619, #527f0e); */
